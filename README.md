@@ -1,8 +1,7 @@
 # Tokyo
 The Tokyo Project - 🗼
 
-### This project is basically a run through many tools used in DevOps. 
-### It will keep expanding until it covers all the following concepts
+### This project is basically a run through many tools used in DevOps. It will keep expanding until it covers all the following concepts
 
 1. Python
 2. Databases
