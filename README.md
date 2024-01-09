@@ -10,7 +10,7 @@
 6. Kubernetes
 7. Docker
 8. AWS (Cloud)
-9. CI/CD (Jenkins)
+9. Jenkins (CI/CD)
 10. Terraform (IaC)
 11. Ansible (Automation)
 12. Nagios (Monitoring)
