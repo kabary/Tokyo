@@ -5,7 +5,7 @@
 1. Python
 2. Linux
 3. Bash Scripting
-4. Database
+4. MariaDB (Database)
 5. Git
 6. Kubernetes
 7. Docker
