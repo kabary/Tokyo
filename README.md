@@ -4,15 +4,16 @@
 
 1. Python
 2. Linux
-3. Database
-4. Git
-5. Kubernetes
-6. Docker
-7. AWS (Cloud)
-8. CI/CD (Jenkins)
-9. Terraform (IaC)
-10. Ansible (Automation)
-11. Nagios (Monitoring)
-12. RabbitMQ (Message Broker)
-13. GoLang (Keisuke Baji)
-14. Game Server - Capstone
+3. Bash Scripting
+4. Database
+5. Git
+6. Kubernetes
+7. Docker
+8. AWS (Cloud)
+9. CI/CD (Jenkins)
+10. Terraform (IaC)
+11. Ansible (Automation)
+12. Nagios (Monitoring)
+13. RabbitMQ (Message Broker)
+14. GoLang (Keisuke Baji)
+15. Game Server - Capstone
