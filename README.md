@@ -17,4 +17,4 @@
 13. RabbitMQ (Message Broker)
 14. GoLang (Keisuke Baji)
 15. Game Server - Capstone
-16. PyUnit (Unit Test)
+16. PyUnit (Testing)
