@@ -17,6 +17,7 @@
 13. RabbitMQ (Message Broker)
 14. GoLang (Keisuke Baji)
 15. PyUnit (Testing)
-16. Jira - Trello - Slack (Project Management)
-17. Game Server - Capstone
+16. OpenSSL (Security)
+17. Jira - Trello - Slack (Project Management)
+18. Game Server - Capstone
 
