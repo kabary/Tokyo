@@ -18,6 +18,7 @@
 14. GoLang (Keisuke Baji)
 15. PyUnit (Testing)
 16. OpenSSL (Security)
-17. Jira - Trello - Slack (Project Management)
-18. Game Server - Capstone
+17. NFS (File Share Server)
+18. Jira - Trello - Slack (Project Management)
+19. Game Server - Capstone
 
