@@ -19,6 +19,8 @@
 15. PyUnit (Testing)
 16. OpenSSL (Security)
 17. NFS (File Share Server)
-18. Jira - Trello - Slack (Project Management)
-19. Game Server - Capstone
+18. Nmap (PenTesting)
+19. DNS Server (Network)
+20. Jira - Trello - Slack (Project Management)
+21. Game Server - Capstone
 
